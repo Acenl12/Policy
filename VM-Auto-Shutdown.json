@@ -1,5 +1,3 @@
-We all know that IaaS is in Azure quite expensive. I just came across a azure policy to create an auto-shutdown schedule for VM's using Azure Policy. 
-
 {
     "name": "Deploy-Vm-autoShutdown",
     "type": "Microsoft.Authorization/policyDefinitions",
